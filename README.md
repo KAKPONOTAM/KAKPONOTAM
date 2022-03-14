@@ -1,8 +1,8 @@
 Hi  👋
 
-🏒 Former professional hockey player
-
 🖥 IOS Developer
+
+🏒 Former professional hockey player
 
 
 [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/danilkakakponotam/)  [<img 
