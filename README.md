@@ -1,6 +1,6 @@
 Hi  👋
 
-🖥 IOS Developer FlexIT
+🖥 iOS Developer FlexIT
 
 🏒 Former professional hockey player
 
