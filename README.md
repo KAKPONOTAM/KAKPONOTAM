@@ -1,6 +1,6 @@
 Hi  👋
 
-🖥 iOS Developer FlexIT
+🖥 iOS Developer at Raiffeisen bank
 
 🏒 Former professional hockey player
 
